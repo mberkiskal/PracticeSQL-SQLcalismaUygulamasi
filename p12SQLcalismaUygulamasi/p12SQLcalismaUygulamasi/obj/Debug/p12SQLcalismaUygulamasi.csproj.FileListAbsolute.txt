@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p12SQLcalismaUygulamasi\p12SQLcalismaUygulamasi\bin\Debug\p12SQLcalismaUygulamasi.exe.config
+C:\Users\mberk\source\repos\p12SQLcalismaUygulamasi\p12SQLcalismaUygulamasi\bin\Debug\p12SQLcalismaUygulamasi.exe
+C:\Users\mberk\source\repos\p12SQLcalismaUygulamasi\p12SQLcalismaUygulamasi\bin\Debug\p12SQLcalismaUygulamasi.pdb
+C:\Users\mberk\source\repos\p12SQLcalismaUygulamasi\p12SQLcalismaUygulamasi\obj\Debug\p12SQLcalismaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p12SQLcalismaUygulamasi\p12SQLcalismaUygulamasi\obj\Debug\p12SQLcalismaUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p12SQLcalismaUygulamasi\p12SQLcalismaUygulamasi\obj\Debug\p12SQLcalismaUygulamasi.Form1.resources
+C:\Users\mberk\source\repos\p12SQLcalismaUygulamasi\p12SQLcalismaUygulamasi\obj\Debug\p12SQLcalismaUygulamasi.Properties.Resources.resources
+C:\Users\mberk\source\repos\p12SQLcalismaUygulamasi\p12SQLcalismaUygulamasi\obj\Debug\p12SQLcalismaUygulamasi.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p12SQLcalismaUygulamasi\p12SQLcalismaUygulamasi\obj\Debug\p12SQLcalismaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p12SQLcalismaUygulamasi\p12SQLcalismaUygulamasi\obj\Debug\p12SQLcalismaUygulamasi.exe
+C:\Users\mberk\source\repos\p12SQLcalismaUygulamasi\p12SQLcalismaUygulamasi\obj\Debug\p12SQLcalismaUygulamasi.pdb
